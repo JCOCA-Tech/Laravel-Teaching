@@ -1,5 +1,6 @@
 # Laravel-Teaching
-This project is all about teaching Laravel to Laravel noobs 🧠
+This project is all about setting up a new Laravel project in the fastest way possible ⏩
+Less Setup time, more development time ⌛
 
 1. To get things running install docker and docker compose on your device 🐋
 
