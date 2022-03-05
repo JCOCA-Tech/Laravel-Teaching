@@ -15,11 +15,11 @@ This project is all about teaching Laravel to Laravel noobs 🧠
 
 4. The following services should be running now (SERVICE - PORT):
 
->     nginx - :80
->     mysql - :3306
->     php - :9000
->     redis - :6379
->     mailhog - :8025
+> nginx - :80
+> mysql - :3306
+> php - :9000
+> redis - :6379
+> mailhog - :8025
 
 
 5. 🤩 Thats all! Now you can start development with Laravel! 🤩
