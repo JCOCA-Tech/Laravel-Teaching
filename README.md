@@ -7,11 +7,11 @@ This project is all about teaching Laravel to Laravel noobs 🧠
 
 2. Open a terminal and move into the folder of this cloned project 🖥️
 
-cd PATH_TO_PROJECT
+> cd PATH_TO_PROJECT
 
 3. Build the docker environment and launch it 🚀
 
-docker compose up --build
+> docker compose up --build
 
 4. The following services should be running now (SERVICE - PORT):
 
